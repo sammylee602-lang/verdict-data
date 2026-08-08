@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "season": "2024",
+    "updated_at": "2025-08-06T18:00:00Z",
+    "staking": "Flat $50 (1 unit) on a $1,000 bankroll",
+    "break_even": 0.524,
+    "verified": {
+      "source": "Betstamp",
+      "profile_url": "https://www.betstamp.com/app/u/theverdictbets",
+      "note": "Verified lines & timestamps. Every pick is logged against a live sportsbook line before kickoff and can't be edited or deleted. This is a documented-picks record — verified odds and timing, not a real-money bankroll."
+    },
+    "counts": {
+      "evaluated": 87,
+      "graded": 54,
+      "passed": 33,
+      "pass_rate": 0.38
+    },
+    "moneyline_note": "Moneyline win rate isn't comparable to spread/total — you're not laying -110, so units are the honest measure there."
+  },
+
+  "summary": [
+    { "type": "spread",    "label": "Spread",    "record": "15-11-1", "win_rate": 0.577, "units": 2.6, "worst_run": -4 },
+    { "type": "total",     "label": "Totals",    "record": "9-8",     "win_rate": 0.529, "units": 0.2, "worst_run": -3 },
+    { "type": "moneyline", "label": "Moneyline", "record": "6-4",     "win_rate": 0.600, "units": 4.7, "worst_run": -2 },
+    { "type": "overall",   "label": "Overall",   "record": "30-23-1", "win_rate": 0.566, "units": 7.5, "worst_run": -4 }
+  ],
+
+  "plays": [
+    { "id": "2024-w6-chi-was", "date": "2024-10-06", "week": 6, "away": "CHI", "home": "WAS", "bet_type": "moneyline", "selection": "Bears ML",     "line": "+150",  "result": "win",  "units": 1.5, "stake": 1, "section": "sunday",   "placed_at": "2024-10-06T16:55:00Z", "verify_url": "https://betstamp.com/b/EXAMPLE01" },
+    { "id": "2024-w5-dal-nyg", "date": "2024-10-03", "week": 5, "away": "DAL", "home": "NYG", "bet_type": "spread",    "selection": "Giants +6.5",  "line": "+6.5",  "result": "win",  "units": 0.9, "stake": 1, "section": "thursday", "placed_at": "2024-10-03T20:10:00Z", "verify_url": "https://betstamp.com/b/EXAMPLE02" },
+    { "id": "2024-w5-kc-den",  "date": "2024-09-29", "week": 5, "away": "KC",  "home": "DEN", "bet_type": null,        "selection": "PASS",         "line": null,    "result": "pass", "units": 0.0, "stake": 0, "section": "sunday",   "placed_at": "2024-09-29T16:55:00Z", "verify_url": null },
+    { "id": "2024-w4-buf-mia", "date": "2024-09-29", "week": 4, "away": "BUF", "home": "MIA", "bet_type": "total",     "selection": "Under 49.5",   "line": "u49.5", "result": "win",  "units": 0.9, "stake": 1, "section": "sunday",   "placed_at": "2024-09-29T16:50:00Z", "verify_url": "https://betstamp.com/b/EXAMPLE03" },
+    { "id": "2024-w4-sea-ari", "date": "2024-09-26", "week": 4, "away": "SEA", "home": "ARI", "bet_type": "spread",    "selection": "Seahawks -4",  "line": "-4",    "result": "loss", "units": -1.0, "stake": 1, "section": "thursday", "placed_at": "2024-09-26T20:10:00Z", "verify_url": "https://betstamp.com/b/EXAMPLE04" },
+    { "id": "2024-w4-hou-jax", "date": "2024-09-22", "week": 4, "away": "HOU", "home": "JAX", "bet_type": "moneyline", "selection": "Jaguars ML",   "line": "+165",  "result": "win",  "units": 1.7, "stake": 1, "section": "sunday",   "placed_at": "2024-09-22T16:55:00Z", "verify_url": "https://betstamp.com/b/EXAMPLE05" },
+    { "id": "2024-w4-gb-min",  "date": "2024-09-22", "week": 4, "away": "GB",  "home": "MIN", "bet_type": "spread",    "selection": "Packers +2.5", "line": "+2.5",  "result": "win",  "units": 0.9, "stake": 1, "section": "sunday",   "placed_at": "2024-09-22T16:55:00Z", "verify_url": "https://betstamp.com/b/EXAMPLE06" },
+    { "id": "2024-w3-phi-tb",  "date": "2024-09-19", "week": 3, "away": "PHI", "home": "TB",  "bet_type": "total",     "selection": "Over 44.5",    "line": "o44.5", "result": "win",  "units": 0.9, "stake": 1, "section": "thursday", "placed_at": "2024-09-19T20:10:00Z", "verify_url": "https://betstamp.com/b/EXAMPLE07" },
+    { "id": "2024-w3-cin-cle", "date": "2024-09-15", "week": 3, "away": "CIN", "home": "CLE", "bet_type": "moneyline", "selection": "Bengals ML",   "line": "-135",  "result": "loss", "units": -1.0, "stake": 1, "section": "sunday",   "placed_at": "2024-09-15T16:55:00Z", "verify_url": "https://betstamp.com/b/EXAMPLE08" },
+    { "id": "2024-w2-atl-no",  "date": "2024-09-12", "week": 2, "away": "ATL", "home": "NO",  "bet_type": "moneyline", "selection": "Saints ML",    "line": "-140",  "result": "win",  "units": 0.7, "stake": 1, "section": "thursday", "placed_at": "2024-09-12T20:10:00Z", "verify_url": "https://betstamp.com/b/EXAMPLE09" }
+  ]
+}
