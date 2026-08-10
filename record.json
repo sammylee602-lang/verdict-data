@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2024",
-    "updated_at": "2026-08-10T05:22:47+00:00",
+    "updated_at": "2026-08-10T06:09:37+00:00",
     "staking": "Flat $50 (1 unit) on a $1,000 bankroll",
     "break_even": 0.524,
     "verified": {
@@ -53,12 +53,13 @@
   ],
   "plays": [
     {
-      "id": "2025-10-13-CHI-JAX-spread",
-      "date": "2025-10-13",
+      "id": "2024-10-13-CHI-JAX-spread",
+      "date": "2024-10-13",
+      "season": "2024",
       "week": 7,
       "away": "CHI",
       "home": "JAX",
-      "day": "Mon",
+      "day": "Sun",
       "bet_type": "spread",
       "selection": "Jaguars - 3",
       "line": "-3.0",
@@ -70,25 +71,27 @@
       "verify_url": null
     },
     {
-      "id": "2025-10-10-SF-SEA-moneyline",
-      "date": "2025-10-10",
+      "id": "2024-10-10-SF-SEA-moneyline",
+      "date": "2024-10-10",
+      "season": "2024",
       "week": 7,
       "away": "SF",
       "home": "SEA",
-      "day": "Fri",
+      "day": "Thu",
       "bet_type": "moneyline",
       "selection": "Seahawks ML",
       "line": "-150.0",
       "result": "win",
       "units": 0.7,
       "stake": 1.0,
-      "tier": "free",
+      "tier": "s",
       "placed_at": null,
       "verify_url": null
     },
     {
       "id": "2024-10-06-CHI-WAS-moneyline",
       "date": "2024-10-06",
+      "season": "2024",
       "week": 6,
       "away": "CHI",
       "home": "WAS",
@@ -106,6 +109,7 @@
     {
       "id": "2024-10-03-DAL-NYG-spread",
       "date": "2024-10-03",
+      "season": "2024",
       "week": 5,
       "away": "DAL",
       "home": "NYG",
@@ -123,6 +127,7 @@
     {
       "id": "2024-09-29-KC-DEN-pass",
       "date": "2024-09-29",
+      "season": "2024",
       "week": 5,
       "away": "KC",
       "home": "DEN",
@@ -140,6 +145,7 @@
     {
       "id": "2024-09-29-BUF-MIA-total",
       "date": "2024-09-29",
+      "season": "2024",
       "week": 4,
       "away": "BUF",
       "home": "MIA",
@@ -157,6 +163,7 @@
     {
       "id": "2024-09-26-SEA-ARI-spread",
       "date": "2024-09-26",
+      "season": "2024",
       "week": 4,
       "away": "SEA",
       "home": "ARI",
@@ -174,6 +181,7 @@
     {
       "id": "2024-09-22-HOU-JAX-moneyline",
       "date": "2024-09-22",
+      "season": "2024",
       "week": 4,
       "away": "HOU",
       "home": "JAX",
@@ -191,6 +199,7 @@
     {
       "id": "2024-09-22-GB-MIN-spread",
       "date": "2024-09-22",
+      "season": "2024",
       "week": 4,
       "away": "GB",
       "home": "MIN",
@@ -208,6 +217,7 @@
     {
       "id": "2024-09-19-PHI-TB-total",
       "date": "2024-09-19",
+      "season": "2024",
       "week": 3,
       "away": "PHI",
       "home": "TB",
@@ -225,6 +235,7 @@
     {
       "id": "2024-09-15-CIN-CLE-moneyline",
       "date": "2024-09-15",
+      "season": "2024",
       "week": 3,
       "away": "CIN",
       "home": "CLE",
@@ -242,6 +253,7 @@
     {
       "id": "2024-09-12-ATL-NO-moneyline",
       "date": "2024-09-12",
+      "season": "2024",
       "week": 2,
       "away": "ATL",
       "home": "NO",
