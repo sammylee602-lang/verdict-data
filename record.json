@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2024",
-    "updated_at": "2026-08-10T06:09:37+00:00",
+    "updated_at": "2026-08-12T20:01:20+00:00",
     "staking": "Flat $50 (1 unit) on a $1,000 bankroll",
     "break_even": 0.524,
     "verified": {
@@ -23,7 +23,7 @@
       "label": "Spread",
       "record": "2-2",
       "win_rate": 0.5,
-      "units": -0.2,
+      "units": -1.0,
       "worst_run": -1
     },
     {
@@ -31,7 +31,7 @@
       "label": "Totals",
       "record": "2-0",
       "win_rate": 1.0,
-      "units": 1.8,
+      "units": 9.0,
       "worst_run": 0
     },
     {
@@ -39,7 +39,7 @@
       "label": "Moneyline",
       "record": "3-2",
       "win_rate": 0.6,
-      "units": 1.1,
+      "units": 9.3,
       "worst_run": -1
     },
     {
@@ -47,7 +47,7 @@
       "label": "Overall",
       "record": "7-4",
       "win_rate": 0.636,
-      "units": 2.7,
+      "units": 17.3,
       "worst_run": -1
     }
   ],
@@ -64,8 +64,8 @@
       "selection": "Jaguars - 3",
       "line": "-3.0",
       "result": "loss",
-      "units": -1.0,
-      "stake": 1.0,
+      "units": -5.0,
+      "stake": 5.0,
       "tier": "free",
       "placed_at": null,
       "verify_url": null
@@ -82,9 +82,9 @@
       "selection": "Seahawks ML",
       "line": "-150.0",
       "result": "win",
-      "units": 0.7,
-      "stake": 1.0,
-      "tier": "s",
+      "units": 5.0,
+      "stake": 7.5,
+      "tier": "free",
       "placed_at": null,
       "verify_url": null
     },
@@ -100,8 +100,8 @@
       "selection": "Bears ML",
       "line": "+150",
       "result": "loss",
-      "units": -1.0,
-      "stake": 1.0,
+      "units": -7.5,
+      "stake": 7.5,
       "tier": "paid",
       "placed_at": null,
       "verify_url": "https://www.betstamp.com/app/u/theverdictbets"
@@ -118,8 +118,8 @@
       "selection": "Giants +6.5",
       "line": "+6.5",
       "result": "win",
-      "units": 0.9,
-      "stake": 1.0,
+      "units": 4.5,
+      "stake": 5.0,
       "tier": "free",
       "placed_at": null,
       "verify_url": null
@@ -154,8 +154,8 @@
       "selection": "Under 49.5",
       "line": "u49.5",
       "result": "win",
-      "units": 0.9,
-      "stake": 1.0,
+      "units": 4.5,
+      "stake": 5.0,
       "tier": "paid",
       "placed_at": null,
       "verify_url": null
@@ -172,8 +172,8 @@
       "selection": "Seahawks -4",
       "line": "-4",
       "result": "loss",
-      "units": -1.0,
-      "stake": 1.0,
+      "units": -5.0,
+      "stake": 5.0,
       "tier": "free",
       "placed_at": null,
       "verify_url": null
@@ -190,8 +190,8 @@
       "selection": "Jaguars ML",
       "line": "+165",
       "result": "win",
-      "units": 1.7,
-      "stake": 1.0,
+      "units": 13.6,
+      "stake": 8.25,
       "tier": "paid",
       "placed_at": null,
       "verify_url": null
@@ -208,8 +208,8 @@
       "selection": "Packers +2.5",
       "line": "+2.5",
       "result": "win",
-      "units": 0.9,
-      "stake": 1.0,
+      "units": 4.5,
+      "stake": 5.0,
       "tier": "paid",
       "placed_at": null,
       "verify_url": null
@@ -226,8 +226,8 @@
       "selection": "Over 44.5",
       "line": "o44.5",
       "result": "win",
-      "units": 0.9,
-      "stake": 1.0,
+      "units": 4.5,
+      "stake": 5.0,
       "tier": "free",
       "placed_at": null,
       "verify_url": null
@@ -244,8 +244,8 @@
       "selection": "Bengals ML",
       "line": "-135",
       "result": "loss",
-      "units": -1.0,
-      "stake": 1.0,
+      "units": -6.8,
+      "stake": 6.75,
       "tier": "paid",
       "placed_at": null,
       "verify_url": null
@@ -262,8 +262,8 @@
       "selection": "Saints ML",
       "line": "-140",
       "result": "win",
-      "units": 0.7,
-      "stake": 1.0,
+      "units": 5.0,
+      "stake": 7.0,
       "tier": "free",
       "placed_at": null,
       "verify_url": null
