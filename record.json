@@ -1,8 +1,8 @@
 {
   "meta": {
     "season": "2024",
-    "updated_at": "2026-08-12T20:01:20+00:00",
-    "staking": "Flat $50 (1 unit) on a $1,000 bankroll",
+    "updated_at": "2026-08-10T06:06:28+00:00",
+    "staking": "1 unit = $10 · larger stakes on select moneyline favorites",
     "break_even": 0.524,
     "verified": {
       "source": "Betstamp",
@@ -10,10 +10,10 @@
       "note": "Verified lines & timestamps. Every pick is logged against a live sportsbook line before kickoff and can't be edited or deleted. This is a documented-picks record \u2014 verified odds and timing, not a real-money bankroll."
     },
     "counts": {
-      "evaluated": 12,
-      "graded": 11,
+      "evaluated": 10,
+      "graded": 9,
       "passed": 1,
-      "pass_rate": 0.08
+      "pass_rate": 0.1
     },
     "moneyline_note": "Moneyline win rate looks high because these are mostly favorites \u2014 they win often but pay less than even money, so the honest measure is the units, not the 60%."
   },
@@ -21,9 +21,9 @@
     {
       "type": "spread",
       "label": "Spread",
-      "record": "2-2",
-      "win_rate": 0.5,
-      "units": -1.0,
+      "record": "2-1",
+      "win_rate": 0.667,
+      "units": 0.8,
       "worst_run": -1
     },
     {
@@ -31,63 +31,27 @@
       "label": "Totals",
       "record": "2-0",
       "win_rate": 1.0,
-      "units": 9.0,
+      "units": 1.8,
       "worst_run": 0
     },
     {
       "type": "moneyline",
       "label": "Moneyline",
-      "record": "3-2",
-      "win_rate": 0.6,
-      "units": 9.3,
+      "record": "3-1",
+      "win_rate": 0.75,
+      "units": 2.9,
       "worst_run": -1
     },
     {
       "type": "overall",
       "label": "Overall",
-      "record": "7-4",
-      "win_rate": 0.636,
-      "units": 17.3,
+      "record": "7-2",
+      "win_rate": 0.778,
+      "units": 5.5,
       "worst_run": -1
     }
   ],
   "plays": [
-    {
-      "id": "2024-10-13-CHI-JAX-spread",
-      "date": "2024-10-13",
-      "season": "2024",
-      "week": 7,
-      "away": "CHI",
-      "home": "JAX",
-      "day": "Sun",
-      "bet_type": "spread",
-      "selection": "Jaguars - 3",
-      "line": "-3.0",
-      "result": "loss",
-      "units": -5.0,
-      "stake": 5.0,
-      "tier": "free",
-      "placed_at": null,
-      "verify_url": null
-    },
-    {
-      "id": "2024-10-10-SF-SEA-moneyline",
-      "date": "2024-10-10",
-      "season": "2024",
-      "week": 7,
-      "away": "SF",
-      "home": "SEA",
-      "day": "Thu",
-      "bet_type": "moneyline",
-      "selection": "Seahawks ML",
-      "line": "-150.0",
-      "result": "win",
-      "units": 5.0,
-      "stake": 7.5,
-      "tier": "free",
-      "placed_at": null,
-      "verify_url": null
-    },
     {
       "id": "2024-10-06-CHI-WAS-moneyline",
       "date": "2024-10-06",
@@ -99,9 +63,9 @@
       "bet_type": "moneyline",
       "selection": "Bears ML",
       "line": "+150",
-      "result": "loss",
-      "units": -7.5,
-      "stake": 7.5,
+      "result": "win",
+      "units": 1.5,
+      "stake": 1.0,
       "tier": "paid",
       "placed_at": null,
       "verify_url": "https://www.betstamp.com/app/u/theverdictbets"
@@ -118,8 +82,8 @@
       "selection": "Giants +6.5",
       "line": "+6.5",
       "result": "win",
-      "units": 4.5,
-      "stake": 5.0,
+      "units": 0.9,
+      "stake": 1.0,
       "tier": "free",
       "placed_at": null,
       "verify_url": null
@@ -154,8 +118,8 @@
       "selection": "Under 49.5",
       "line": "u49.5",
       "result": "win",
-      "units": 4.5,
-      "stake": 5.0,
+      "units": 0.9,
+      "stake": 1.0,
       "tier": "paid",
       "placed_at": null,
       "verify_url": null
@@ -172,8 +136,8 @@
       "selection": "Seahawks -4",
       "line": "-4",
       "result": "loss",
-      "units": -5.0,
-      "stake": 5.0,
+      "units": -1.0,
+      "stake": 1.0,
       "tier": "free",
       "placed_at": null,
       "verify_url": null
@@ -190,8 +154,8 @@
       "selection": "Jaguars ML",
       "line": "+165",
       "result": "win",
-      "units": 13.6,
-      "stake": 8.25,
+      "units": 1.7,
+      "stake": 1.0,
       "tier": "paid",
       "placed_at": null,
       "verify_url": null
@@ -208,8 +172,8 @@
       "selection": "Packers +2.5",
       "line": "+2.5",
       "result": "win",
-      "units": 4.5,
-      "stake": 5.0,
+      "units": 0.9,
+      "stake": 1.0,
       "tier": "paid",
       "placed_at": null,
       "verify_url": null
@@ -226,8 +190,8 @@
       "selection": "Over 44.5",
       "line": "o44.5",
       "result": "win",
-      "units": 4.5,
-      "stake": 5.0,
+      "units": 0.9,
+      "stake": 1.0,
       "tier": "free",
       "placed_at": null,
       "verify_url": null
@@ -244,8 +208,8 @@
       "selection": "Bengals ML",
       "line": "-135",
       "result": "loss",
-      "units": -6.8,
-      "stake": 6.75,
+      "units": -1.0,
+      "stake": 1.0,
       "tier": "paid",
       "placed_at": null,
       "verify_url": null
@@ -262,8 +226,8 @@
       "selection": "Saints ML",
       "line": "-140",
       "result": "win",
-      "units": 5.0,
-      "stake": 7.0,
+      "units": 0.7,
+      "stake": 1.0,
       "tier": "free",
       "placed_at": null,
       "verify_url": null
