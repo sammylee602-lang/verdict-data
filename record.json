@@ -1,7 +1,7 @@
 {
   "meta": {
-    "season": "2024",
-    "updated_at": "2026-09-03T22:37:08+00:00",
+    "season": "2026",
+    "updated_at": "2026-09-03T23:04:58+00:00",
     "staking": "Flat $50 (1 unit) on a $1,000 bankroll",
     "break_even": 0.524,
     "verified": {
@@ -55,7 +55,7 @@
     {
       "id": "2026-09-09-NE-SEA-total",
       "date": "2026-09-09",
-      "season": "2024",
+      "season": "2026",
       "week": 1,
       "away": "NE",
       "home": "SEA",
