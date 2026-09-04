@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-09-04T00:50:08+00:00",
+    "updated_at": "2026-09-04T01:04:30+00:00",
     "staking": "Flat $50 (1 unit) on a $1,000 bankroll",
     "break_even": 0.524,
     "verified": {
@@ -37,6 +37,14 @@
     {
       "type": "moneyline",
       "label": "Moneyline",
+      "record": "0-0",
+      "win_rate": 0.0,
+      "units": 0.0,
+      "worst_run": 0
+    },
+    {
+      "type": "props",
+      "label": "Player Props",
       "record": "0-0",
       "win_rate": 0.0,
       "units": 0.0,
