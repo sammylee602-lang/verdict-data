@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-09-03T23:04:58+00:00",
+    "updated_at": "2026-09-04T00:50:08+00:00",
     "staking": "Flat $50 (1 unit) on a $1,000 bankroll",
     "break_even": 0.524,
     "verified": {
@@ -10,7 +10,7 @@
       "note": "Verified lines & timestamps. Every pick is logged against a live sportsbook line before kickoff and can't be edited or deleted. This is a documented-picks record \u2014 verified odds and timing, not a real-money bankroll."
     },
     "counts": {
-      "evaluated": 1,
+      "evaluated": 2,
       "graded": 0,
       "passed": 0,
       "pass_rate": 0.0
@@ -53,6 +53,24 @@
   ],
   "plays": [
     {
+      "id": "2026-09-10-SF-LAR-props",
+      "date": "2026-09-10",
+      "season": "2026",
+      "week": 1,
+      "away": "SF",
+      "home": "LAR",
+      "day": "Thu",
+      "bet_type": "props",
+      "selection": "",
+      "line": null,
+      "result": "none",
+      "units": 0.0,
+      "stake": 1.0,
+      "tier": "none",
+      "placed_at": null,
+      "verify_url": null
+    },
+    {
       "id": "2026-09-09-NE-SEA-total",
       "date": "2026-09-09",
       "season": "2026",
@@ -62,12 +80,12 @@
       "day": "Wed",
       "bet_type": "total",
       "selection": "",
-      "line": null,
+      "line": "44.5",
       "result": "none",
       "units": 0.0,
-      "stake": 1.0,
-      "tier": "none",
-      "placed_at": null,
+      "stake": 50.0,
+      "tier": "free",
+      "placed_at": "2026-09-01T15:16:00",
       "verify_url": "https://www.betstamp.com/app/u/theverdictbets"
     }
   ]
