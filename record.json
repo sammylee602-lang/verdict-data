@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-09-04T01:04:30+00:00",
+    "updated_at": "2026-09-07T05:04:49+00:00",
     "staking": "Flat $50 (1 unit) on a $1,000 bankroll",
     "break_even": 0.524,
     "verified": {
@@ -69,13 +69,13 @@
       "home": "LAR",
       "day": "Thu",
       "bet_type": "props",
-      "selection": "",
-      "line": null,
+      "selection": "Matthew Stafford passing yards Over",
+      "line": "265.5",
       "result": "none",
       "units": 0.0,
-      "stake": 1.0,
-      "tier": "none",
-      "placed_at": null,
+      "stake": 10.0,
+      "tier": "free",
+      "placed_at": "2026-09-04T17:10:00",
       "verify_url": null
     },
     {
@@ -87,7 +87,7 @@
       "home": "SEA",
       "day": "Wed",
       "bet_type": "total",
-      "selection": "",
+      "selection": "Under",
       "line": "44.5",
       "result": "none",
       "units": 0.0,
