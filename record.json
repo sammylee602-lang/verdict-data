@@ -1,8 +1,8 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-09-10T04:28:46+00:00",
-    "staking": "Flat $50 (1 unit) on a $1,000 bankroll",
+    "updated_at": "2026-09-10T17:26:00+00:00",
+    "staking": "Flat $50 on a $1,000 bankroll (5 units)",
     "break_even": 0.524,
     "verified": {
       "source": "Betstamp",
@@ -31,7 +31,7 @@
       "label": "Totals",
       "record": "1-0",
       "win_rate": 1.0,
-      "units": 45.5,
+      "units": 4.5,
       "worst_run": 0
     },
     {
@@ -55,7 +55,7 @@
       "label": "Overall",
       "record": "1-0",
       "win_rate": 1.0,
-      "units": 45.5,
+      "units": 4.5,
       "worst_run": 0
     }
   ],
@@ -198,7 +198,7 @@
       "selection": "Under",
       "line": "44.5",
       "result": "win",
-      "units": 45.5,
+      "units": 4.5,
       "stake": 50.0,
       "tier": "free",
       "placed_at": "2026-09-01T15:16:00",
