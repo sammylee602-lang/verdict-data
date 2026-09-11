@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-09-10T17:26:00+00:00",
+    "updated_at": "2026-09-11T04:59:23+00:00",
     "staking": "Flat $50 on a $1,000 bankroll (5 units)",
     "break_even": 0.524,
     "verified": {
@@ -11,7 +11,7 @@
     },
     "counts": {
       "evaluated": 8,
-      "graded": 1,
+      "graded": 2,
       "passed": 0,
       "pass_rate": 0.0
     },
@@ -45,18 +45,18 @@
     {
       "type": "props",
       "label": "Player Props",
-      "record": "0-0",
+      "record": "0-1",
       "win_rate": 0.0,
-      "units": 0.0,
-      "worst_run": 0
+      "units": -1.0,
+      "worst_run": -1
     },
     {
       "type": "overall",
       "label": "Overall",
-      "record": "1-0",
-      "win_rate": 1.0,
-      "units": 4.5,
-      "worst_run": 0
+      "record": "1-1",
+      "win_rate": 0.5,
+      "units": 3.5,
+      "worst_run": -1
     }
   ],
   "plays": [
@@ -179,8 +179,8 @@
       "bet_type": "props",
       "selection": "Matthew Stafford passing yards Over",
       "line": "265.5",
-      "result": "none",
-      "units": 0.0,
+      "result": "loss",
+      "units": -1.0,
       "stake": 10.0,
       "tier": "free",
       "placed_at": "2026-09-04T17:10:00",
