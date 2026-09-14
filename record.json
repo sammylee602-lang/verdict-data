@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-09-14T04:49:04+00:00",
+    "updated_at": "2026-09-14T17:36:06+00:00",
     "staking": "Flat $50 on a $1,000 bankroll (5 units)",
     "break_even": 0.524,
     "verified": {
@@ -15,7 +15,7 @@
       "passed": 0,
       "pass_rate": 0.0
     },
-    "moneyline_note": "Moneyline win rate looks high because these are mostly favorites \u2014 they win often but pay less than even money, so the honest measure is the units, not the 60%."
+    "moneyline_note": "Moneyline win rate looks high because these are mostly favorites \u2014 they win often but pay less than even money, so the honest measure is the units."
   },
   "summary": [
     {
