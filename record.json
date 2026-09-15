@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-09-15T00:35:52+00:00",
+    "updated_at": "2026-09-15T04:50:10+00:00",
     "staking": "Flat $50 on a $1,000 bankroll (5 units)",
     "break_even": 0.524,
     "verified": {
@@ -11,7 +11,7 @@
     },
     "counts": {
       "evaluated": 18,
-      "graded": 7,
+      "graded": 8,
       "passed": 10,
       "pass_rate": 0.56
     },
@@ -21,10 +21,10 @@
     {
       "type": "spread",
       "label": "Spread",
-      "record": "0-1",
+      "record": "0-2",
       "win_rate": 0.0,
-      "units": -5.0,
-      "worst_run": -1
+      "units": -10.0,
+      "worst_run": -2
     },
     {
       "type": "total",
@@ -53,27 +53,27 @@
     {
       "type": "overall",
       "label": "Overall",
-      "record": "4-3",
-      "win_rate": 0.571,
-      "units": 4.2,
+      "record": "4-4",
+      "win_rate": 0.5,
+      "units": -0.8,
       "worst_run": -2
     }
   ],
   "plays": [
     {
-      "id": "2026-09-14-DEN-KC-pass",
+      "id": "2026-09-14-DEN-KC-spread",
       "date": "2026-09-14",
       "season": "2026",
       "week": 1,
       "away": "DEN",
       "home": "KC",
       "day": "Mon",
-      "bet_type": null,
-      "selection": "",
-      "line": null,
-      "result": "none",
-      "units": 0.0,
-      "stake": 1.0,
+      "bet_type": "spread",
+      "selection": "DEN",
+      "line": "2.5",
+      "result": "loss",
+      "units": -5.0,
+      "stake": 50.0,
       "tier": "paid",
       "placed_at": "2026-09-08T13:54:00",
       "verify_url": null
