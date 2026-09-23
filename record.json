@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-09-21T17:01:33+00:00",
+    "updated_at": "2026-09-23T22:22:09+00:00",
     "staking": "Flat $50 on a $1,000 bankroll (5 units)",
     "break_even": 0.524,
     "verified": {
@@ -24,7 +24,7 @@
       "record": "1-2",
       "win_rate": 0.333,
       "units": -5.2,
-      "worst_run": -2
+      "roi": -34.7
     },
     {
       "type": "total",
@@ -32,7 +32,7 @@
       "record": "2-1",
       "win_rate": 0.667,
       "units": 3.8,
-      "worst_run": -1
+      "roi": 25.3
     },
     {
       "type": "moneyline",
@@ -40,7 +40,7 @@
       "record": "4-1",
       "win_rate": 0.8,
       "units": 1.2,
-      "worst_run": -1
+      "roi": 1.6
     },
     {
       "type": "props",
@@ -48,7 +48,7 @@
       "record": "4-3",
       "win_rate": 0.571,
       "units": -1.1,
-      "worst_run": -1
+      "roi": -15.7
     },
     {
       "type": "overall",
@@ -56,7 +56,7 @@
       "record": "11-7",
       "win_rate": 0.611,
       "units": -1.3,
-      "worst_run": -2
+      "roi": -1.2
     }
   ],
   "plays": [
