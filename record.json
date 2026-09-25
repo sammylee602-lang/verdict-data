@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-09-23T22:22:09+00:00",
+    "updated_at": "2026-09-25T23:05:59+00:00",
     "staking": "Flat $50 on a $1,000 bankroll (5 units)",
     "break_even": 0.524,
     "verified": {
@@ -10,10 +10,10 @@
       "note": "Verified lines & timestamps. Every pick is logged against a live sportsbook line before kickoff and can't be edited or deleted. This is a documented-picks record \u2014 verified odds and timing, not a real-money bankroll."
     },
     "counts": {
-      "evaluated": 28,
-      "graded": 18,
+      "evaluated": 29,
+      "graded": 19,
       "passed": 10,
-      "pass_rate": 0.36
+      "pass_rate": 0.34
     },
     "moneyline_note": "Moneyline win rate looks high because these are mostly favorites \u2014 they win often but pay less than even money, so the honest measure is the units."
   },
@@ -29,10 +29,10 @@
     {
       "type": "total",
       "label": "Totals",
-      "record": "2-1",
-      "win_rate": 0.667,
-      "units": 3.8,
-      "roi": 25.3
+      "record": "2-2",
+      "win_rate": 0.5,
+      "units": -1.2,
+      "roi": -6.0
     },
     {
       "type": "moneyline",
@@ -53,13 +53,31 @@
     {
       "type": "overall",
       "label": "Overall",
-      "record": "11-7",
-      "win_rate": 0.611,
-      "units": -1.3,
-      "roi": -1.2
+      "record": "11-8",
+      "win_rate": 0.579,
+      "units": -6.3,
+      "roi": -5.4
     }
   ],
   "plays": [
+    {
+      "id": "2026-09-24-ATL-GB-total",
+      "date": "2026-09-24",
+      "season": "2026",
+      "week": 3,
+      "away": "ATL",
+      "home": "GB",
+      "day": "Thu",
+      "bet_type": "total",
+      "selection": "Under",
+      "line": "44.5",
+      "result": "loss",
+      "units": -5.0,
+      "stake": 50.0,
+      "tier": "free",
+      "placed_at": null,
+      "verify_url": null
+    },
     {
       "id": "2026-09-20-NO-BAL-moneyline",
       "date": "2026-09-20",
