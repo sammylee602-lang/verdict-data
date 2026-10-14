@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2026",
-    "updated_at": "2026-10-06T04:20:01+00:00",
+    "updated_at": "2026-10-14T01:35:47+00:00",
     "staking": "Flat $50 on a $1,000 bankroll (5 units)",
     "break_even": 0.524,
     "verified": {
@@ -10,10 +10,10 @@
       "note": "Verified lines & timestamps. Every pick is logged against a live sportsbook line before kickoff and can't be edited or deleted. This is a documented-picks record \u2014 verified odds and timing, not a real-money bankroll."
     },
     "counts": {
-      "evaluated": 82,
-      "graded": 37,
+      "evaluated": 85,
+      "graded": 40,
       "passed": 45,
-      "pass_rate": 0.55
+      "pass_rate": 0.53
     },
     "moneyline_note": "Moneyline win rate looks high because these are mostly favorites \u2014 they win often but pay less than even money, so the honest measure is the units."
   },
@@ -21,18 +21,18 @@
     {
       "type": "spread",
       "label": "Spread",
-      "record": "2-3",
-      "win_rate": 0.4,
-      "units": -5.6,
-      "roi": -22.4
+      "record": "2-5",
+      "win_rate": 0.286,
+      "units": -15.6,
+      "roi": -44.6
     },
     {
       "type": "total",
       "label": "Totals",
-      "record": "4-3",
-      "win_rate": 0.571,
-      "units": 2.7,
-      "roi": 7.7
+      "record": "5-3",
+      "win_rate": 0.625,
+      "units": 7.2,
+      "roi": 18.0
     },
     {
       "type": "moneyline",
@@ -53,13 +53,67 @@
     {
       "type": "overall",
       "label": "Overall",
-      "record": "18-19",
-      "win_rate": 0.486,
-      "units": -9.2,
-      "roi": -5.4
+      "record": "19-21",
+      "win_rate": 0.475,
+      "units": -14.7,
+      "roi": -8.0
     }
   ],
   "plays": [
+    {
+      "id": "2026-10-11-LV-NE-spread",
+      "date": "2026-10-11",
+      "season": "2026",
+      "week": 5,
+      "away": "LV",
+      "home": "NE",
+      "day": "Sun",
+      "bet_type": "spread",
+      "selection": "Las Vegas Raiders",
+      "line": "3.5",
+      "result": "loss",
+      "units": -5.0,
+      "stake": 50.0,
+      "tier": "paid",
+      "placed_at": null,
+      "verify_url": null
+    },
+    {
+      "id": "2026-10-11-BAL-ATL-total",
+      "date": "2026-10-11",
+      "season": "2026",
+      "week": 5,
+      "away": "BAL",
+      "home": "ATL",
+      "day": "Sun",
+      "bet_type": "total",
+      "selection": "Over",
+      "line": "43.5",
+      "result": "win",
+      "units": 4.5,
+      "stake": 50.0,
+      "tier": "paid",
+      "placed_at": null,
+      "verify_url": null
+    },
+    {
+      "id": "2026-10-08-TB-DAL-spread",
+      "date": "2026-10-08",
+      "season": "2026",
+      "week": 5,
+      "away": "TB",
+      "home": "DAL",
+      "day": "Thu",
+      "bet_type": "spread",
+      "selection": "Dallas Cowboys",
+      "line": "-8.5",
+      "result": "loss",
+      "units": -5.0,
+      "stake": 50.0,
+      "tier": "free",
+      "placed_at": null,
+      "verify_url": null
+    },
     {
       "id": "2026-10-04-KC-LV-moneyline",
       "date": "2026-10-04",
